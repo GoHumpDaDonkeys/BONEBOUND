@@ -1,0 +1,12 @@
+Bonebound v0.4.0 validation
+PASS: AutoIt syntax, zero errors/warnings.
+PASS: Existing material storage, ordinary gold sale and personal-gear protection regressions.
+PASS: Minor, Major and Superior Vigor revealed by identification are stored rather than sold.
+PASS: Final sale guard rejects Vigor; unreadable armor mods stop the workflow.
+PASS: Aligned modifier matching, including Binary modifier data and rejection of misaligned matches.
+PASS: Missing kit prevents the identification API call.
+PASS: Independent Blue/Purple/Gold/Green pickup filters.
+PASS: ImGui rendering and visible window; rarity defaults, save and second-process reload.
+PASS: Test Merchant button and manual cleanup path removed.
+
+Live rarity pickups and Vigor/storage cases require in-game testing.

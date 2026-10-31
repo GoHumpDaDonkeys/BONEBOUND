@@ -1,0 +1,15 @@
+# Personal state and generated output
+/Settings.ini
+/Activity.log
+**/imgui.ini
+*.log
+*.tmp
+*.bak
+*.a3x
+*.exe
+*.zip
+/Preview.png
+/_*Check.au3
+/.vs/
+/.vscode/
+__pycache__/
